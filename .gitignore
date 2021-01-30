@@ -130,6 +130,7 @@ dmypy.json
 
 .idea/
 catboost_info/
+dask-worker-space/
 
 *.pkl
 *.xlsx
