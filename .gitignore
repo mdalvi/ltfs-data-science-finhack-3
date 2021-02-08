@@ -134,3 +134,4 @@ dask-worker-space/
 
 *.pkl
 *.xlsx
+storage/*.json
